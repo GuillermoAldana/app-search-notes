@@ -1,5 +1,5 @@
-# Rsbuild Project
-
+# App search note Project
+This application is for students to search for their subject grade.
 ## Setup
 
 Install the dependencies:
